@@ -1,0 +1,12 @@
+.dd{
+    border-bottom: 2px solid rgb(134, 134, 134);
+    color: white;
+}
+.bb{
+    background-color: black;
+}
+.ff{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
